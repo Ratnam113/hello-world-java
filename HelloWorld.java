@@ -9,5 +9,7 @@ public class HelloWorld {
    System.out.println("Hello, Hyderabad");
    System.out.println("Hello, Telangana");
    System.out.println("Hello, India");
+   System.out.println("goo corona");
+   System.out.println("pandemic days");
   }
 }
