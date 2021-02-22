@@ -7,7 +7,7 @@ public class HelloWorld {
    System.out.println("Hello, World");
    System.out.println("Hello, Devops");
    System.out.println("Hello, Hyderabad");
+   System.out.println("Hello, Telangana");
    System.out.println("Hello, India");
-   System.out.println("Hello, World");
   }
 }
